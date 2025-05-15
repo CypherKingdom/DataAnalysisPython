@@ -106,7 +106,7 @@ from functools import reduce
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/your-username/data-analysis-python-i3344.git
+git clone https://github.com/your-username/DataAnalysisPython.git
 cd data-analysis-python-i3344
 pip install -r requirements.txt
 ```
